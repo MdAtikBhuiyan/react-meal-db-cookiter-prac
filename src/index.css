@@ -1,0 +1,10 @@
+/* tailwind css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* header nav */
+
+nav ul a.active{
+    color: #85b72c;
+}
